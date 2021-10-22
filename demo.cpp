@@ -12,6 +12,10 @@ if(a!=5){
 if (a<10&&b<5){
 
  cout<<a+b<<" the sum of a+b cannot be greater than 15"<<endl;
+ cout<<a+b<<" the sum of a+b cannot be greater than 15"<<endl;
+ cout<<a+b<<" the sum of a+b cannot be greater than 15"<<endl;
+ cout<<a+b<<" the sum of a+b cannot be greater than 15"<<endl;
+ cout<<a+b<<" the sum of a+b cannot be greater than 15"<<endl;
      
  }
 
